@@ -5,6 +5,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import platform
 from pathlib import Path
 from typing import Any
 from urllib.parse import urlparse
